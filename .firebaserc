@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "finelectrademo",
+    "demo": "finelectrademo",
+    "staging": "finelectrademo"
+  },
+  "targets": {},
+  "etags": {}
+}
